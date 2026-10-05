@@ -201,13 +201,13 @@ width: 100%;
 
   left: 50%;
 
-  top: 250%;
+  top: 300%;
 
   transform: translate(-50%, 50%);
 
   transition: .3s ease-in-out;
   
-  color: #8b9284;
+  color: #4169E1;
 
 }
 
@@ -224,7 +224,7 @@ width: 100%;
 
   position: absolute;
 
-  background: #8b9284;
+  background: #4169E1;
 
   transition: .3s ease-in-out;
 
@@ -357,7 +357,7 @@ width: 100%;
 
 #menu-button.change-color div {
 
-  background: #8b9284;
+  background: #F0E68C;
 
 }
 
@@ -371,7 +371,7 @@ width: 100%;
 
 #menu-button.hover-color div {
 
-  background: #4a4f44;
+  background: #E0FFFF;
 
 }
 
@@ -379,7 +379,7 @@ width: 100%;
 
 #menu-button.hover-color2 div {
 
-  background: #8b9284 !important;
+  background: #F0E68C !important;
 
 }
 
@@ -406,7 +406,7 @@ width: 100%;
 
 .reveal {
 
-  height: 700px !important;
+  height: 775px !important;
 
 }
 
@@ -448,7 +448,7 @@ width: 100%;
 
   line-height: 28px;
 
-  color: #8b9284;
+  color: #F0E68C;
 
   transition: .3s ease-in-out;
 
@@ -468,14 +468,14 @@ width: 100%;
 
 .nav-animate {
 
-  color: #4a4f44 !important;
+  color: #E0FFFF !important;
 
 }
 
 
 .letter {
 
-  color: #8b9284;
+  color: #F0E68C;
   
   float: left;
 
